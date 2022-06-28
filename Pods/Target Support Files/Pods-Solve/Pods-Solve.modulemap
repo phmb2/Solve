@@ -1,0 +1,6 @@
+framework module Pods_Solve {
+  umbrella header "Pods-Solve-umbrella.h"
+
+  export *
+  module * { export * }
+}
